@@ -1,5 +1,3 @@
-##  About Me
-I am a sophomore CS student at University of Arizona. I am also a technological intern at City of Tucson. I enjoy Software Development and AI. Please take a look at my projects!
 
 
 ## 🔗 Links
