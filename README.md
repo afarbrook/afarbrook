@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afarbrook&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afarbrook&show_icons=true&theme=dark)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={afarbrook}&theme={github})
